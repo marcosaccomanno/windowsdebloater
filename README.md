@@ -4,5 +4,10 @@ A windows PowerShell script to automatically remove all unnecessary bloatware pa
 ### Disclaimer
 This script removes windows bloatware packages that are not required for running windows. I do NOT take responsibility for what may happen to your system.
 
+### How to use
+* option a)
+
+* option b)
+
 ### List of packages removed
 
