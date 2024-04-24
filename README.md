@@ -2,7 +2,7 @@
 A windows powershell script to automatically remove all unnecessary bloatware packages. Note that some packages will not be removed as they mayor be required or useful (e.g. calculator).
 
 ### Disclaimer
-This script removes windows bloatware packages that are not required for running windows. I do NOT take responsibility for what may happen to your system.
+This script removes windows pre-installed packages that are not required for running windows. I do NOT take responsibility for what may happen to your system.
 
 ### How to use
 * In order to function properly, you need to run PowerShell as admin.
