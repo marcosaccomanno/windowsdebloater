@@ -15,7 +15,7 @@ if ($continue -eq "y") {
     DISM /Online /Remove-ProvisionedAppxPackage /PackageName: AppUp.IntelGraphicsExperience_1.100.5287.0_neutral_~_8j3eq9eme6ctt
     DISM /Online /Remove-ProvisionedAppxPackage /PackageName: Microsoft.549981C3F5F10_4.2308.1005.0_neutral_~_8wekyb3d8bbwe
     DISM /Online /Remove-ProvisionedAppxPackage /PackageName: Microsoft.BingWeather_4.53.51361.0_neutral_~_8wekyb3d8bbwe
-    DISM /Online /Remove-ProvisionedAppxPackage /Name: Microsoft.Getstarted_2021.2303.3.0_neutral_~_8wekyb3d8bbwe
+    DISM /Online /Remove-ProvisionedAppxPackage /PackageName: Microsoft.Getstarted_2021.2303.3.0_neutral_~_8wekyb3d8bbwe
     DISM /Online /Remove-ProvisionedAppxPackage /PackageName: Microsoft.HEIFImageExtension_1.1.861.0_neutral_~_8wekyb3d8bbwe
     DISM /Online /Remove-ProvisionedAppxPackage /PackageName: Microsoft.LanguageExperiencePackes-ES_19041.75.255.0_neutral__8wekyb3d8bbwe
     DISM /Online /Remove-ProvisionedAppxPackage /PackageName: Microsoft.Messaging_2019.125.32.1000_neutral_~_8wekyb3d8bbwe
