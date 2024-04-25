@@ -1,5 +1,5 @@
 # windowsdebloater
-A windows powershell script to automatically remove all unnecessary bloatware package using DISM (Deployment Image Servicing and Management).
+A powershell script to automatically remove all unnecessary bloatware windows 10 packages using DISM (Deployment Image Servicing and Management).
 
 ### Disclaimer
 This script removes pre-installed packages that are not required for running windows. I do NOT take responsibility for what may happen to your system.
