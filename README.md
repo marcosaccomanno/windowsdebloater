@@ -11,7 +11,7 @@ This script removes pre-installed packages that are not required for running win
 * Run the script with ```.\windowsdebloater.ps1```
 
 ### List of packages removed
-Please note that this script will remove packages that may be usefull (e.g. calculator, some image extensions). If you need this packages you will need to install them mannualy.
+Please note that this script will remove packages that may be useful (e.g. calculator, some image extensions). If you need this packages you will need to install them mannualy.
 * ```.\windowsdebloater.ps1``` will remove the following packages from your system:
 
 ```
