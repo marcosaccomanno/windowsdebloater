@@ -2,7 +2,7 @@
 A powershell script to automatically remove all unnecessary bloatware windows 10 packages using DISM (Deployment Image Servicing and Management).
 
 ### Disclaimer
-This script removes pre-installed packages that are not required for running windows. I do NOT take responsibility for what may happen to your system.
+This script removes pre-installed packages that are not required for running windows. I do NOT take responsibility for what may happen to your system. Run this script at your own risk.
 
 ### How to use
 * In order to function properly, you need to run powershell as admin.
