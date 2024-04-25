@@ -7,7 +7,6 @@ Run this script at your own risk. Press "y" to run the script.'
 $continue = Read-Host
 
 if ($continue -eq "y") {
-    <# Action to perform if the condition is true #>
     <# list all windows bloatware packages currently installed #>
     DISM /Online /Get-ProvisionedAppxPackages | select-string Packagename
 
