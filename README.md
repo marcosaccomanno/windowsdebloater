@@ -62,3 +62,5 @@ Microsoft.YourPhone_1.24032.123.0_neutral_~_8wekyb3d8bbwe
 Microsoft.ZuneMusic_11.2402.6.0_neutral_~_8wekyb3d8bbwe
 Microsoft.ZuneVideo_2019.22091.10061.0_neutral_~_8wekyb3d8bbwe
 ```
+
+If you want to keep any of this packages feel free to modify your ```windowsdebloater.ps1``` file before running it.
